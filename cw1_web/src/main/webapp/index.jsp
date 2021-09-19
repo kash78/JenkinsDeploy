@@ -25,7 +25,7 @@
 
                 <p>Photo by Jing</p>
                 <p>
-                    Some description here
+                    Some changed description here
                 </p>
                            
             </article>
@@ -60,7 +60,7 @@
             
             <footer>
                 <hr />
-                <p>Copyright &copy; 2021 Jing SDDO</p>
+                <p>Copyright &copy; 2021 Jing xiong SDDO</p>
 
             </footer>
         </main>
