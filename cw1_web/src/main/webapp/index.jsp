@@ -25,7 +25,7 @@
 
                 <p>Photo by Jing</p>
                 <p>
-                    Photo Here 1
+                    Some description here
                 </p>
                            
             </article>
