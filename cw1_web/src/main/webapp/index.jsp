@@ -25,7 +25,7 @@
 
                 <p>Photo by Jing</p>
                 <p>
-                    Some changed description here
+                    Some changed description here branch 2 change
                 </p>
                            
             </article>
