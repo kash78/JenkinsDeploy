@@ -14,7 +14,7 @@
 					<li><a href="Description">Description</a></li>
 					<li><a href="Related">Photos</a></li>
 					<li><a href="Reviews">Review</a></li>
-					<li><a href="Reviews">Contactssss</a></li>
+					<li><a href="Reviews">Contactsss</a></li>
 				</ul>
 			</nav>
 
