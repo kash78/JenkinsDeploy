@@ -10,6 +10,9 @@ pipeline {
         }
     
         stage('Stage2-21050672') {
+            agent {
+                docker {image 'apache2-21050672-image'}
+            }
             steps {
                 sh 'echo "Stage 2 Completed-21050672"'
             }
